@@ -1,6 +1,6 @@
 {
   "name":"react-style-layout",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "peerDependencies": {
     "react": "^0.13.0",
